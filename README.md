@@ -1,3 +1,9 @@
+# ⚠️ Deprecated
+
+This project is no longer maintained.
+
+Feel free to fork or use the code as-is, but please be aware that no further updates, bug fixes, or support will be provided.
+
 # Laumed - Degree Calculator
 
 This program calculates the degree average and exams average for students. It is based on the rules for calculating the degree average at the University of Bologna, but can be expanded to support other universities in the future.
